@@ -6,3 +6,5 @@ GIT_COMMITTER_EMAIL="lastname@kibit.edu.ua" \
 git commit -m "u2 added class ShoppingItem"
 
 git push origin u2-lastname
+
+ https://github.com/kibit-edu-ua/ki22-ui/tree/u2-lastname/js/shopping-list
