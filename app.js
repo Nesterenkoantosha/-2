@@ -24,3 +24,9 @@ addBtn.addEventListener("click", () => {
     renderItem(item);
     input.value = "";
 });
+
+input.addEventListener("keypress", (e) => {
+    if (e.key === "Enter") {
+        addBtn.click(); // те саме, що натиснути Add item
+    }
+});
